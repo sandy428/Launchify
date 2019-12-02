@@ -16,3 +16,58 @@ Grab a coffee as the first time run takes couple of minutes to build and launch 
 
 
 
+-----------------------------------------------------
+Below are the screenshots showing the app capabilities
+-----------------------------------------------------
+
+Launch Screen with a beautiful animation in the background
+
+<div align="center">
+    <img src="/launch_anim.png" width="400px"</img> 
+</div>
+
+
+
+Launch Screen to get started
+
+<div align="center">
+    <img src="/launch_screen.png" width="400px"</img> 
+</div>
+
+
+
+Click on Get started to land on to the Home page (where data loads)
+
+<div align="center">
+    <img src="/home_loading.png" width="400px"</img> 
+</div>
+
+
+
+
+
+Home screens shows Past launches by default
+
+<div align="center">
+    <img src="/home_past_launches.png" width="400px"</img> 
+</div>
+
+
+
+
+
+Search for Past and Upcoming launches using the search bar and see the results instantaneously
+
+<div align="center">
+    <img src="/home_search_results.png" width="400px"</img> 
+</div>
+
+
+
+
+Click on "Show upcoming launches button" to see upcoming launches and can be switched back to show past launches
+
+<div align="center">
+    <img src="/home_upcoming_launches.png" width="400px"</img> 
+</div>
+
